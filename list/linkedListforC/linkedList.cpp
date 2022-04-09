@@ -3,6 +3,7 @@
 #include <string.h>
 
 typedef int ElementType;
+typedef int ElementType3;
 
 struct Node;
 typedef struct Node *PtrToNode;
